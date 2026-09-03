@@ -10,7 +10,7 @@ PHP client for [kwork.ru](https://kwork.ru/) mobile API (`api.kwork.ru`) with We
 ## Installation
 
 ```bash
-composer require kesha1225/kwork-php
+composer require maxbezrod/kwork-php
 ```
 
 ## Quick start
